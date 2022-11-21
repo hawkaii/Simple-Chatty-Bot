@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: high
+- text: speed
+- text: String
+- text: '"high"'
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5028#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 05 Nov 2022 04:27:14 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false
